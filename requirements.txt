@@ -1,2 +1,5 @@
 ipwhois
 requests
+# 버전 지정해서 설치하고 싶을 시
+# ipwhois==[version]
+# requests==[version]
